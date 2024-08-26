@@ -9,7 +9,7 @@
 
 ## 使用方法
 
-请自行[hanhua文件](https://github.com/Unmannedruins/Clash_Chinese_Patch/releases)替换下列路径中的app.asar文件
+请自行[app.asar.7z或app.asar.zip](https://github.com/Unmannedruins/Clash_Chinese_Patch/releases/tag/Clash_for_Windows)解压后替换软件安装路径中的app.asar文件
 
 `Clash for Windows\resources\app.asar`
 
